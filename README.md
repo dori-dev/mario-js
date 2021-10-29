@@ -1,5 +1,5 @@
 # Mario Js
-mario game with javascript
+Mario game, with javascript and kaboom.js
 
 
 
@@ -15,12 +15,12 @@ mario game with javascript
 - base.js: kaboom codes
 
 ## Play
-open index.html file to play the game
+open index.html with your browser to play the game
 
 
 
 ## Links
 
-Download source code: [Click here](https://github.com/dori-dev/FlappyBird/archive/refs/heads/main.zip)
+Download source code: [Click here](https://github.com/dori-dev/mario-js/archive/refs/heads/main.zip)
 
 My github acount: [Click here](https://github.com/dori-dev/)
