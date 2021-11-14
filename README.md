@@ -8,6 +8,7 @@ Mario game, with javascript and kaboom.js
 - JavaScript
 - Kaboom.js
 
+#
 # Play the Game
 
 ## Files
@@ -20,6 +21,7 @@ open index.html with your browser to play the game
 ## Chage the Game
 add or change maps in game.js to change game world
 
+#
 ## Links
 
 Download source code: [Click here](https://github.com/dori-dev/mario-js/archive/refs/heads/main.zip)
