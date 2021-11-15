@@ -19,7 +19,7 @@ Mario game, with javascript and kaboom.js!
 Open index.html with your browser to play the game
 
 ## Chage the Game
-add or change maps in game.js to change game world
+Add or change maps in game.js to change game world
 
 #
 ## Links
