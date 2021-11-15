@@ -1,5 +1,5 @@
 # Mario Js
-Mario game, with javascript and kaboom.js
+Mario game, with javascript and kaboom.js!
 
 
 #
