@@ -12,8 +12,8 @@ Mario game, with javascript and kaboom.js!
 # Play the Game
 
 ## Files
-- game.js: main code of game
-- base.js: kaboom codes
+- game(js): main code of game
+- base(js): kaboom codes
 
 ## Play
 open index.html with your browser to play the game
