@@ -26,4 +26,4 @@ Add or change maps in game.js to change game world
 
 Download Source Code: [Click here](https://github.com/dori-dev/mario-js/archive/refs/heads/main.zip)
 
-My github acount: [Click here](https://github.com/dori-dev/)
+My Github Acount: [Click here](https://github.com/dori-dev/)
